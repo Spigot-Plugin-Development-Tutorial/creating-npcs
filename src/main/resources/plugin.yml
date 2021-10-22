@@ -1,0 +1,7 @@
+name: CreatingNPCs
+version: '${project.version}'
+main: me.kodysimpson.creatingnpcs.CreatingNpcs
+api-version: 1.17
+commands:
+  create:
+    description: weenergang
